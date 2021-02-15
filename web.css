@@ -1,0 +1,54 @@
+#top{
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    background-size: 100%;
+    background:grey;
+    
+    
+    
+    
+}
+.dot{
+    margin-left: 1197px;
+    margin-top: -201px;
+    height: 250px;
+    width: 250px;
+    background-color:grey;
+    border-radius: 50%;
+    display:inline-block;
+    
+    
+}
+
+
+
+#description{
+    text-align: center;
+    color:white;
+    
+    
+    font-size: 35px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+#link{
+    width:200px;
+    height: 200px;
+    padding-left: 615px;
+    padding-top: 20px;
+    
+}
+body{
+    background:linear-gradient(black,grey);
+    background-repeat: repeat;
+}
+
+#end{
+    margin-top: 129px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    text-align: center;
+}
